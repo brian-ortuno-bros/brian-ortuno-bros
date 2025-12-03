@@ -1,21 +1,37 @@
-# 👋 Hola, soy Brian Ortuno
+# 👋 Hi, I'm Brian Ortuño
 
-💻 **Frontend & Backend Developer**  
-Experto en **Angular (18/19/20)** y **AWS (Lambda, API Gateway, DynamoDB, S3)**.  
-Me apasiona crear aplicaciones seguras, escalables y con un diseño claro y profesional.
+💻 **Lead Senior Software Engineer | Backend & DevOps | Frontend Enthusiast**
 
-## 🚀 Habilidades
-- Angular (Standalone, Routing, Modular Design)
-- AWS Lambda, API Gateway, DynamoDB, S3
-- UI/UX con enfoque en claridad y feedback
-- Branding y diseño de identidad (Ortuno Bros)
+I specialize in building secure, scalable, and user-friendly applications. With expertise in **Angular (v18/19/20)** and **AWS Cloud Services (Lambda, API Gateway, DynamoDB, S3)**, I bridge frontend and backend seamlessly to deliver polished user experiences. I also enjoy shaping brand identity and design through my work at **Ortuno Bros**.
 
-## 📂 Proyectos Destacados
-- [Ortuno Bros](https://github.com/brian-ortuno-bros) – Branding y soluciones digitales
-- Sistema de gestión de laboratorio clínico (modelado de muestras y usuarios)
+---
 
-## 📊 Estadísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brian-ortuno-bros&show_icons=true&theme=dark)
+## 🚀 Core Skills
+- **Frontend:** Angular (Standalone architecture, Routing, Modular Design, Troubleshooting complex builds)
+- **Backend & Cloud:** AWS Lambda, API Gateway, DynamoDB modeling, S3 bucket policies
+- **Security:** JWT authentication, robust error handling, logging & monitoring
+- **UI/UX:** Clean layouts, balanced dark themes, responsive Bootstrap, clear error feedback
+- **Branding:** Business identity design and logo creation
 
-## 🌐 Conecta conmigo
-[LinkedIn](https://linkedin.com/in/tuusuario) | [Portafolio](https://tuweb.com)
+---
+
+## 📂 Featured Projects
+- **Ortuno Bros** – Branding and digital solutions for modern businesses  
+- **Clinical Laboratory Management System** – Domain modeling for samples, providers, and user profiles with DynamoDB  
+- **Angular Modernization** – Refactoring apps with standalone components, clean routing, and JWT-secured APIs  
+
+---
+
+## 📊 GitHub Stats
+![Brian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brian-ortuno-bros&show_icons=true&theme=dark)
+
+---
+
+## 🌐 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/brian-ortu%C3%B1o-u-5b251077/)  
+- [GitHub](https://github.com/brian-ortuno-bros)  
+- [Ortuno Bros Portfolio](#) *(add your website link here)*  
+
+---
+
+✨ *Focused on modernizing workflows, designing secure applications, and delivering professional user experiences.*
