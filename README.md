@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hola, soy Brian Ortuno
 
-<!--
-**brian-ortuno-bros/brian-ortuno-bros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Frontend & Backend Developer**  
+Experto en **Angular (18/19/20)** y **AWS (Lambda, API Gateway, DynamoDB, S3)**.  
+Me apasiona crear aplicaciones seguras, escalables y con un diseño claro y profesional.
 
-Here are some ideas to get you started:
+## 🚀 Habilidades
+- Angular (Standalone, Routing, Modular Design)
+- AWS Lambda, API Gateway, DynamoDB, S3
+- UI/UX con enfoque en claridad y feedback
+- Branding y diseño de identidad (Ortuno Bros)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Proyectos Destacados
+- [Ortuno Bros](https://github.com/brian-ortuno-bros) – Branding y soluciones digitales
+- Sistema de gestión de laboratorio clínico (modelado de muestras y usuarios)
+
+## 📊 Estadísticas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brian-ortuno-bros&show_icons=true&theme=dark)
+
+## 🌐 Conecta conmigo
+[LinkedIn](https://linkedin.com/in/tuusuario) | [Portafolio](https://tuweb.com)
