@@ -22,16 +22,36 @@ I specialize in building secure, scalable, and user-friendly applications. With 
 
 ---
 
+## 🛠️ Tech Stack & Tools
+![Angular](https://img.shields.io/badge/Angular-18%2F19%2F20-red?logo=angular&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-NoSQL-blue?logo=amazondynamodb&logoColor=white)
+![S3](https://img.shields.io/badge/S3-Storage-green?logo=amazons3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-Responsive-purple?logo=bootstrap&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-Security-black?logo=jsonwebtokens&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-lightgrey?logo=githubactions&logoColor=white)
+
+---
+
 ## 📊 GitHub Stats
-![Brian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brian-ortuno-bros&show_icons=true&theme=dark)
+![Brian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brian-ortuno-bros&show_icons=true&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brian-ortuno-bros&layout=compact&theme=dark)
 
 ---
 
 ## 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/brian-ortu%C3%B1o-u-5b251077/)  
+- [LinkedIn](https://www.linkedin.com/in/brian-ortuno-u-5b251077/)  
 - [GitHub](https://github.com/brian-ortuno-bros)  
 - [Ortuno Bros Portfolio](#) *(add your website link here)*  
 
 ---
 
-✨ *Focused on modernizing workflows, designing secure applications, and delivering professional user experiences.*
+## ✨ Vision
+Focused on **modernizing workflows**, **designing secure applications**, and **delivering professional user experiences**.  
+Always exploring new ways to integrate **frontend elegance** with **backend scalability**.
+
+---
+
+## 🎨 Branding
+![Ortuno Bros Logo](https://via.placeholder.com/250x80.png?text=Ortuno+Bros+Logo)  
+*(Replace with your actual logo or banner for Ortuno Bros)*
