@@ -27,8 +27,11 @@ I specialize in building secure, scalable, and user-friendly applications.
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-Responsive-purple?logo=bootstrap&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-Security-black?logo=jsonwebtokens&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-lightgrey?logo=githubactions&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-Framework-blueviolet?logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-Backend-darkblue?logo=csharp&logoColor=white)
+![NodeJS](https://img.shields.io/badge/NodeJS-Server-green?logo=node.js&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET%20Core-CrossPlatform-blue?logo=dotnet&logoColor=white)
 
----
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats-brian-ortuno.vercel.app/api?username=brian-ortuno-bros&show_icons=true&theme=dark)
