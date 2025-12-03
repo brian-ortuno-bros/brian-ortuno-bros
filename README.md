@@ -31,8 +31,8 @@ I specialize in building secure, scalable, and user-friendly applications.
 ---
 
 ## 📊 GitHub Stats
-![Brian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brian-ortuno-bros&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brian-ortuno-bros&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats-brian-ortuno.vercel.app/api?username=brian-ortuno-bros&show_icons=true&theme=dark)
+
 
 ---
 
@@ -46,8 +46,3 @@ I specialize in building secure, scalable, and user-friendly applications.
 Focused on **modernizing workflows**, **designing secure applications**, and **delivering professional user experiences**.  
 Always exploring new ways to integrate **frontend elegance** with **backend scalability**.
 
----
-
-## 🎨 Branding
-![Ortuno Bros Logo](https://via.placeholder.com/250x80.png?text=Ortuno+Bros+Logo)  
-*(Replace with your actual logo or banner for Ortuno Bros)*
